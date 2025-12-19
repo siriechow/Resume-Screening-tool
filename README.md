@@ -73,3 +73,27 @@ resume-screening-tool/
 │
 └── models/
     └── resume_ranker.pkl  # Trained ML model (generated)
+### 🔑 Prerequisites
+
+Ensure you have the following installed on your system:
+
+- Git
+- Node.js / Python (as required by the project)
+- Package manager (`npm`, `yarn`, or `pip`)
+- Basic knowledge of command-line usage
+
+---
+
+### 📥 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repository-name.git
+
+# Navigate into the project directory
+cd your-repository-name
+
+# Install dependencies
+npm install          # for Node.js projects
+# OR
+pip install -r requirements.txt   # for Python projects
