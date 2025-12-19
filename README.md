@@ -81,10 +81,10 @@ Ensure you have the following installed on your system:
 - Node.js / Python (as required by the project)
 - Package manager (`npm`, `yarn`, or `pip`)
 - Basic knowledge of command-line usage
-
+```
 ---
 
-### 📥 Installation
+## 📥 Installation
 
 ```bash
 # Clone the repository
