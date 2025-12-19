@@ -85,14 +85,13 @@ Ensure you have the following installed on your system:
 ---
 
 ## 📥 Installation
-
-```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository-name.git
+```bash
+git clone https://github.com/siriechow/Resume-Screening-tool
 ```
 ```bash
 # Navigate into the project directory
-cd your-repository-name
+cd Resume-Screening-tool
 ```
 ```bash
 # Install dependencies
