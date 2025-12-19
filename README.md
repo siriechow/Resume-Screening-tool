@@ -85,17 +85,15 @@ Ensure you have the following installed on your system:
 ---
 
 ## 📥 Installation
-# Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/siriechow/Resume-Screening-tool
 ```
+### Navigate into the project directory
 ```bash
-# Navigate into the project directory
 cd Resume-Screening-tool
 ```
+### Install dependencies
 ```bash
-# Install dependencies
-npm install          # for Node.js projects
-# OR
 pip install -r requirements.txt   # for Python projects
 ```
