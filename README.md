@@ -78,8 +78,8 @@ resume-screening-tool/
 Ensure you have the following installed on your system:
 
 - Git
-- Node.js / Python (as required by the project)
-- Package manager (`npm`, `yarn`, or `pip`)
+- Python (as required by the project)
+- Package manager (`pip`)
 - Basic knowledge of command-line usage
 ```
 ---
@@ -89,11 +89,14 @@ Ensure you have the following installed on your system:
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-repository-name.git
-
+```
+```bash
 # Navigate into the project directory
 cd your-repository-name
-
+```
+```bash
 # Install dependencies
 npm install          # for Node.js projects
 # OR
 pip install -r requirements.txt   # for Python projects
+```
